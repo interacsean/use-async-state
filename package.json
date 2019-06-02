@@ -1,0 +1,17 @@
+{
+  "name": "use-async-state",
+  "version": "0.0.1",
+  "description": "React hook to manage async data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "state",
+    "async"
+  ],
+  "author": "interacsean",
+  "license": "ISC"
+}
